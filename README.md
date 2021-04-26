@@ -25,8 +25,8 @@ Basically I dont restrict to a particular tech stack or domain . Being a versati
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 📫 How to reach me: []();
+- 📝 [Resume]()
 
 
 **Languages and Tools:**  
@@ -46,38 +46,18 @@ Basically I dont restrict to a particular tech stack or domain . Being a versati
 <!--START_SECTION:waka-->
 ```text
 JavaScript   9 hrs 53 mins   ██████████████▓░░░░░░░░░░   59.33 % 
-JSX          3 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 % 
-SCSS         3 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Mysql        3 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 % 
+Java         3 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.36 % 
 ```
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
+<a href="https://www.buymeacoffee.com/adithyamenon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adithya-adi-menon&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adithya-adi-menon&show_icons=true&theme=gotham" alt="Adithya Menon S" />
 <!--
 **Adithya-adi-Menon/adithya-adi-menon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
