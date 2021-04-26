@@ -27,6 +27,8 @@ Basically I dont restrict to a particular tech stack or domain . Being a versati
   - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adithya-adi-menon&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!--
 **Adithya-adi-Menon/adithya-adi-menon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
