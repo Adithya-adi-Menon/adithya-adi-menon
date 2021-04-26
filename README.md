@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://github.com/adithya-adi-menon/Hosting/master/Adithya Menon.gif?raw=true)
+![alt text](https://github.com/Adithya-adi-Menon/Hosting/blob/main/Adithya%20Menon.gif?raw=true)
 <!--
 **Adithya-adi-Menon/adithya-adi-menon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
