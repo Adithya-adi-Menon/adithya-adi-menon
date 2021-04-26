@@ -13,6 +13,8 @@
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://github.com/Adithya-adi-Menon/Hosting/blob/master/assets/spotify.svg" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=adithya-adi-menon.adithya-adi-menon)
 <!--
 **Adithya-adi-Menon/adithya-adi-menon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
